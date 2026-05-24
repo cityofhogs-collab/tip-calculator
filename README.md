@@ -8,7 +8,7 @@ A simple command-line tool to calculate tips and split bills.
 python tip_calculator.py
 ```
 
-You'll be promted for:
+You'll be prompted for:
 - Bill amount
 - Tip percentage
 - Number of people
